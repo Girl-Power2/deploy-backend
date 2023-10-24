@@ -1,7 +1,9 @@
 
 const { Pool } = require("pg");
 const { Client } = require("pg");
-const connectionString = process.env.DB_URL;
+const connectionString ="https://cureapp0.onrender.com" 
+
+
 
 
 
